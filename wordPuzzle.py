@@ -4,6 +4,7 @@
 # when you're typing the program don't show any asterisk, but the word will be saved on the secret_word variable
 
 # for this week as creativity I uploaded this program on the github, with the link below:
+#https://github.com/limaofelipe/word_puzzle
 import getpass
 
 
